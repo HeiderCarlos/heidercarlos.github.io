@@ -125,7 +125,7 @@
       "endDate": "2008-12-31",
       "score": "",
       "courses": []
-    },
+    }
   ],
   "awards": [],
   "certificates": [],
@@ -182,7 +182,7 @@
     }
   ],
   "interests": [],
-  "references": ["Refereces available upon request."],
+  "references": [],
   "projects": [],
   "meta": {
     "version": "v1.0.0",
