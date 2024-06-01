@@ -183,8 +183,7 @@
   ],
   "interests": [],
   "references": ["Referecens available upon request."],
-  "projects": ["GESTE's Website:
-  https://www.gestexperts.com.br/"],
+  "projects": [],
   "meta": {
     "version": "v1.0.0",
     "canonical": "https://github.com/jsonresume/resume-schema/blob/v1.0.0/schema.json"
