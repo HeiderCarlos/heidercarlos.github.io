@@ -22,19 +22,20 @@
   },
   "work": [
     {
+      "name": "Freelancer",
+      "position": "Translator",
+      "startDate": "2018-01-31",
+      "endDate": "",
+      "highlights": [],
+      "url": ""
+    },
+    {
       "name": "JuneFirst AB",
       "position": "Subtitler",
       "startDate": "2023-10-31",
       "endDate": "",
       "highlights": [],
       "url": "https://www.linkedin.com/company/junefirst/"
-    },
-    {
-      "position": "Translator",
-      "startDate": "2018-01-31",
-      "endDate": "",
-      "highlights": [],
-      "url": ""
     },
     {
       "name": "FLITTO Inc.",
