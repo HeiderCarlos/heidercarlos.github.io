@@ -2,9 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Translator English <-> Portuguese (Brazil)
-Tradutor Inglês <-> Português
-<a href='https://www.proz.com/profile/2679500'>Proz</a>.
+subtitle: Translator English <-> Portuguese (Brazil) Tradutor Inglês <-> Português <a href='https://www.proz.com/profile/2679500'>Proz</a>.
 
 profile:
   align: right
