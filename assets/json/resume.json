@@ -2,7 +2,7 @@
   "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
   "basics": {
     "name": "Heider Carlos",
-    "label": "Tradutor EN->PT-BR | Translator EN-> PT-BR",
+    "label": "Translator EN-> PT-BR",
     "image": "",
     "email": "translator@heidercarlos.com",
     "phone": "+55 (37) 9-8808-8445",
@@ -23,14 +23,14 @@
   "work": [
     {
       "name": "JuneFirst AB",
-      "position": "Legendista",
+      "position": "Subtitler",
       "startDate": "2023-10-31",
       "endDate": "",
       "highlights": [],
       "url": "https://www.linkedin.com/company/junefirst/"
     },
     {
-      "position": "Tradutor",
+      "position": "Translator",
       "startDate": "2018-01-31",
       "endDate": "",
       "highlights": [],
@@ -38,7 +38,7 @@
     },
     {
       "name": "FLITTO Inc.",
-      "position": "Tradutor",
+      "position": "Translator",
       "startDate": "2022-01-31",
       "endDate": "",
       "highlights": [],
@@ -46,7 +46,7 @@
     },
     {
       "name": "PGLS ",
-      "position": "Tradutor",
+      "position": "Translator",
       "startDate": "2021-01-31",
       "endDate": "",
       "highlights": [],
@@ -74,7 +74,7 @@
       "startDate": "2016-01-31",
       "endDate": "2018-12-31",
       "highlights": [],
-      "summary": "Engenheiro civil. Atuei com projetos estruturais, de instalação elétrica de baixa-tensão e AVCBs, além de acompanhamento em obra.",
+      "summary": "I designed, performed and coordinated structural projects.",
       "url": "https://www.linkedin.com/company/umbra-engenharia/"
     }
   ],
@@ -82,17 +82,26 @@
   "education": [
     {
       "institution": "UFU - Universidade Federal de Uberlândia",
-      "area": "Linguística, Tradução, Inteligência Artificial",
-      "studyType": "Mestrado",
+      "area": "LLinguistic, Translation, AI",
+      "studyType": "Master's Degree",
       "startDate": "2023-11-30",
       "endDate": "2025-12-31",
       "score": "",
       "courses": []
     },
     {
+      "institution": "Universidade Federal de Uberlândia - UFU",
+      "area": "Translation Studies",
+      "studyType": "Bachelor's Degree",
+      "startDate": "2020-01-31",
+      "endDate": "2023-06-30",
+      "score": "",
+      "courses": []
+    },
+    {
       "institution": "Centro Universitário Presidente Antônio Carlos - UNIPAC",
-      "area": "Engenharia Civil",
-      "studyType": "Bacharelado",
+      "area": "Civil Engineering",
+      "studyType": "Bachelor's Degree",
       "startDate": "2012-01-31",
       "endDate": "2016-12-31",
       "score": "",
@@ -100,8 +109,8 @@
     },
     {
       "institution": "Newcastle University",
-      "area": "Engenharia Civil",
-      "studyType": "Bacharelado",
+      "area": "Civil Engineering",
+      "studyType": "Exchange Student",
       "startDate": "2013-12-31",
       "endDate": "2014-12-31",
       "score": "",
@@ -109,29 +118,20 @@
     },
     {
       "institution": "Centro Federal de Educação Tecnológica de Minas Gerais",
-      "area": "Eletromecânica",
-      "studyType": "Curso Técnico Integrado",
+      "area": "Electromechanical",
+      "studyType": "Technician",
       "startDate": "2005-01-31",
       "endDate": "2008-12-31",
       "score": "",
       "courses": []
     },
-    {
-      "institution": "Universidade Federal de Uberlândia - UFU",
-      "area": "Interpretação e Tradução de Idiomas",
-      "studyType": "Bacharelado",
-      "startDate": "2020-01-31",
-      "endDate": "2023-06-30",
-      "score": "",
-      "courses": []
-    }
-  ],
+  ]
   "awards": [],
   "certificates": [],
   "publications": [],
   "skills": [
     {
-      "name": "Memoq",
+      "name": "MemoQ",
       "level": "",
       "keywords": []
     },
@@ -168,21 +168,21 @@
   ],
   "languages": [
     {
-      "fluency": "Fluente",
-      "language": "Inglês"
+      "fluency": "Fluent",
+      "language": "English"
     },
     {
-      "fluency": "Nativo",
-      "language": "Português"
+      "fluency": "Native",
+      "language": "Portuguese (Brazil)"
     },
     {
-      "fluency": "Intermediário",
-      "language": "Francês"
+      "fluency": "Intermedite",
+      "language": "French"
     }
   ],
   "interests": [],
-  "references": ["Referências disponíveis caso requeridas."],
-  "projects": ["Site da GESTE:
+  "references": ["Referecens available upon request."],
+  "projects": ["GESTE's Website:
   https://www.gestexperts.com.br/"],
   "meta": {
     "version": "v1.0.0",
