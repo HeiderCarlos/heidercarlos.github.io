@@ -1,13 +1,13 @@
 {
   "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
   "basics": {
-    "name": "Heider Carlos R. da Cruz",
-    "label": "Tradutor EN->PT-BR, Engenheiro Civil | Translator EN-> PT-BR, Civil Engineer",
+    "name": "Heider Carlos",
+    "label": "Tradutor EN->PT-BR | Translator EN-> PT-BR",
     "image": "",
-    "email": "heiderassamita@gmail.com",
-    "phone": "3798808844",
-    "url": "",
-    "summary": "Sou um tradutor e engenheiro civil.\n\nNa engenharia civil, trabalhei com projetos estruturais e de AVCB na empresa Umbra Engenharia.\n\nNa área de tradução, trabalho como freelancer e também presto serviço para diversas agências como Appen, PGLS e OneForma. Como freelancer traduzi e revisei artigos acadêmicos e teses. Para agências traduzi, revisei e fiz pós-edição de tradução de máquina (MTPE) de diversos tipos de documentos.",
+    "email": "translator@heidercarlos.com",
+    "phone": "+55 (37) 9-8808-8445",
+    "url": "https://www.heidercarlos.com",
+    "summary": "Sou tradutor e revisor no par linguístico inglês-português, graduado em Tradução pela Universidade Federal de Uberlândia e, atualmente, mestrando em Linguística na mesma universidade.\n\nPossuo amplos conhecimentos técnicos, sendo graduado em Engenharia Civil e técnico em Eletromecânica. Possuo, também, amplos conhecimentos culturais, em especial no que tange à cultura geek/nerd, e escrevo há mais de 15 anos para sites especializados em quadrinhos, filmes, jogos, seriados, animes e mangás.\n\nTraduzo desde minha adolescência, mas trabalho profissionalmente com tradução desde 2019. Nesse tempo trabalhei traduzindo documentos, artigos acadêmicos, relatórios financeiros, legendando vídeos e fazendo pós-edição de tradução de máquina (MTPE). Trabalhei e trabalho para empresas internacionais como Flitto, JuneFirst, Appen, OneForma, PGLS, Transphere, dentre outras.",
     "location": {
       "countryCode": "US",
       "address": "Brazil"
@@ -15,12 +15,27 @@
     "profiles": [
       {
         "network": "LinkedIn",
-        "username": "heider-carlos-r-da-cruz-4194949b",
-        "url": "https://www.linkedin.com/in/heider-carlos-r-da-cruz-4194949b/"
+        "username": "heider-carlos-4194949b",
+        "url": "https://www.linkedin.com/in/heider-carlos-4194949b/"
       }
     ]
   },
   "work": [
+    {
+      "name": "JuneFirst AB",
+      "position": "Legendista",
+      "startDate": "2023-10-31",
+      "endDate": "",
+      "highlights": [],
+      "url": "https://www.linkedin.com/company/junefirst/"
+    },
+    {
+      "position": "Tradutor",
+      "startDate": "2018-01-31",
+      "endDate": "",
+      "highlights": [],
+      "url": ""
+    },
     {
       "name": "FLITTO Inc.",
       "position": "Tradutor",
@@ -36,13 +51,6 @@
       "endDate": "",
       "highlights": [],
       "url": "https://www.linkedin.com/company/pgls-inc/"
-    },
-    {
-      "position": "Tradutor",
-      "startDate": "2018-01-31",
-      "endDate": "",
-      "highlights": [],
-      "url": ""
     },
     {
       "name": "Welocalize",
@@ -74,7 +82,7 @@
   "education": [
     {
       "institution": "UFU - Universidade Federal de Uberlândia",
-      "area": "Tradução, Inteligência Artificial",
+      "area": "Linguística, Tradução, Inteligência Artificial",
       "studyType": "Mestrado",
       "startDate": "2023-11-30",
       "endDate": "2025-12-31",
@@ -83,8 +91,8 @@
     },
     {
       "institution": "Centro Universitário Presidente Antônio Carlos - UNIPAC",
-      "area": "Civil Engineering",
-      "studyType": "Bachelor's degree",
+      "area": "Engenharia Civil",
+      "studyType": "Bacharelado",
       "startDate": "2012-01-31",
       "endDate": "2016-12-31",
       "score": "",
@@ -92,8 +100,8 @@
     },
     {
       "institution": "Newcastle University",
-      "area": "Civil Engineering",
-      "studyType": "Bachelor's degree",
+      "area": "Engenharia Civil",
+      "studyType": "Bacharelado",
       "startDate": "2013-12-31",
       "endDate": "2014-12-31",
       "score": "",
@@ -102,16 +110,16 @@
     {
       "institution": "Centro Federal de Educação Tecnológica de Minas Gerais",
       "area": "Eletromecânica",
-      "studyType": "Médio/Técnico",
-      "startDate": "2005-12-31",
+      "studyType": "Curso Técnico Integrado",
+      "startDate": "2005-01-31",
       "endDate": "2008-12-31",
       "score": "",
       "courses": []
     },
     {
       "institution": "Universidade Federal de Uberlândia - UFU",
-      "area": "Language Interpretation and Translation",
-      "studyType": "Bachelor's degree in Translation Studies",
+      "area": "Interpretação e Tradução de Idiomas",
+      "studyType": "Bacharelado",
       "startDate": "2020-01-31",
       "endDate": "2023-06-30",
       "score": "",
@@ -123,122 +131,7 @@
   "publications": [],
   "skills": [
     {
-      "name": "Comunicação",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Tradução técnica",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Português brasileiro",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Civil Engineering",
-      "level": "",
-      "keywords": []
-    },
-    {
       "name": "Memoq",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "English Translation",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "SDL",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Autocad",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Portuguese",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "French",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Photoshop",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Engineering",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Teamwork",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Microsoft Excel",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Gaming",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Adobe Photoshop",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Structural Engineering",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Eberick",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Social Media",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Microsoft Office",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "AutoCAD",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Microsoft Word",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "PowerPoint",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Windows",
       "level": "",
       "keywords": []
     },
@@ -248,43 +141,49 @@
       "keywords": []
     },
     {
-      "name": "Translation",
+      "name": "Autocad",
       "level": "",
       "keywords": []
     },
     {
-      "name": "Trados",
+      "name": "Microsoft Office",
       "level": "",
       "keywords": []
     },
     {
-      "name": "English",
+      "name": "HTML",
       "level": "",
       "keywords": []
     },
     {
-      "name": "Technical Drawing",
+      "name": "Python",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "C",
       "level": "",
       "keywords": []
     }
   ],
   "languages": [
     {
-      "fluency": "Native Speaker",
-      "language": "English"
+      "fluency": "Fluente",
+      "language": "Inglês"
     },
     {
-      "fluency": "Limited Working",
-      "language": "French"
+      "fluency": "Nativo",
+      "language": "Português"
     },
     {
-      "fluency": "Native Speaker",
-      "language": "Portuguese"
+      "fluency": "Intermediário",
+      "language": "Francês"
     }
   ],
   "interests": [],
-  "references": [],
-  "projects": [],
+  "references": ["Referências disponíveis caso requeridas."],
+  "projects": ["Site da GESTE:
+  https://www.gestexperts.com.br/"],
   "meta": {
     "version": "v1.0.0",
     "canonical": "https://github.com/jsonresume/resume-schema/blob/v1.0.0/schema.json"
