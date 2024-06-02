@@ -2,12 +2,12 @@
   "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
   "basics": {
     "name": "Heider Carlos",
-    "label": "Translator EN <-> PT-BR",
+    "label": "Translator - EN <-> PT-BR",
     "image": "",
     "email": "translator@heidercarlos.com",
     "phone": "+55 (37) 9-8808-8445",
     "url": "https://www.heidercarlos.com",
-    "summary": "Sou tradutor e revisor no par linguístico inglês-português, graduado em Tradução pela Universidade Federal de Uberlândia e, atualmente, mestrando em Linguística na mesma universidade.\n\nPossuo amplos conhecimentos técnicos, sendo graduado em Engenharia Civil e técnico em Eletromecânica. Possuo, também, amplos conhecimentos culturais, em especial no que tange à cultura geek/nerd, e escrevo há mais de 15 anos para sites especializados em quadrinhos, filmes, jogos, seriados, animes e mangás.\n\nTraduzo desde minha adolescência, mas trabalho profissionalmente com tradução desde 2019. Nesse tempo trabalhei traduzindo documentos, artigos acadêmicos, relatórios financeiros, legendando vídeos e fazendo pós-edição de tradução de máquina (MTPE). Trabalhei e trabalho para empresas internacionais como Flitto, JuneFirst, Appen, OneForma, PGLS, Transphere, dentre outras.",
+    "summary": "I am a professional, passionate and skillful translator with 5+ years of experience translating manuals, articles, documents, reports, videogames, and subtitling many different genres.",
     "location": {
       "countryCode": "US",
       "address": "Brazil"

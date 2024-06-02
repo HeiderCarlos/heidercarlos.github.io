@@ -7,13 +7,15 @@ subtitle: Translator English <-> Portuguese (Brazil) | Tradutor Inglês <-> Port
 profile:
   align: right
   image: prof_pic_color.jpg
-  image_circular: false # crops the image to make it circular
-  more_info: <a href='https://www.proz.com/profile/2679500'>Proz Profile</a>.
+  image_circular: true # crops the image to make it circular
+  more_info: 
 
 news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
-I have been translating since my teenage years, and I work as a translator since 2019.
+"I am a translator and proofreader specializing in the English-Portuguese language pair. I hold a Bachelor's degree in Translation from the Federal University of Uberlândia (UFU) and am currently pursuing a Master's degree in Linguistics at the same university.
 
-Currently, I am doing a Master's Degree in Linguistics at the Federal University of Uberlândia (UFU). I have a bachelor degree in Translation at the Federal University of Uberlândia (UFU), a bachelor degree in Civil Engineering at the University President Antônio Carlos (UNIPAC) and I was an exchange student for one year at the Newcastle University, UK. I write for blogs, newsletters and popculture site. For an indepth look of my production, please check this website's tabs.
+I have extensive technical knowledge, with a degree in Civil Engineering and a technical qualification in Electromechanics. Additionally, I have a broad cultural background, particularly in geek/nerd culture, and have been writing for over 15 years for websites specializing in comics, movies, games, TV series, anime, and manga.
+
+I have been translating since my teenage years but have been working professionally as a translator since 2019. During this time, I have translated documents, academic articles, financial reports, subtitled videos, and performed machine translation post-editing (MTPE). I have worked and continue to work for international companies such as Flitto, JuneFirst, Appen, OneForma, PGLS, and Transphere, among others. You can check the professional recommendations I received on my <a href='https://www.proz.com/profile/2679500'>Proz Profile</a> or get in touch using the methods below."
