@@ -2,7 +2,7 @@
   "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
   "basics": {
     "name": "Heider Carlos",
-    "label": "Translator EN-> PT-BR",
+    "label": "Translator EN <-> PT-BR",
     "image": "",
     "email": "translator@heidercarlos.com",
     "phone": "+55 (37) 9-8808-8445",
