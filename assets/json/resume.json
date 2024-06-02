@@ -52,7 +52,7 @@
     {
       "name": "Welocalize",
       "position": "Translator",
-      "startDate": "2022-04-30",
+      "startDate": "2021-04-30",
       "endDate": "2023-10-31",
       "highlights": [],
       "url": "https://www.linkedin.com/company/welocalize/"
@@ -79,8 +79,8 @@
   "education": [
     {
       "institution": "UFU - Universidade Federal de Uberlândia",
-      "area": "LLinguistic, Translation, AI",
-      "studyType": "Master's Degree",
+      "area": "Linguistics, Translation, AI",
+      "studyType": "Master's Degree in Translation Studies (Ongoing)",
       "startDate": "2023-11-30",
       "endDate": "2025-12-31",
       "score": "",
@@ -88,8 +88,8 @@
     },
     {
       "institution": "Universidade Federal de Uberlândia - UFU",
-      "area": "Translation Studies",
-      "studyType": "Bachelor's Degree",
+      "area": "Translation Studies, Interpretation",
+      "studyType": "Bachelor's Degree in Translation Studies",
       "startDate": "2020-01-31",
       "endDate": "2023-06-30",
       "score": "",
@@ -97,8 +97,8 @@
     },
     {
       "institution": "Centro Universitário Presidente Antônio Carlos - UNIPAC",
-      "area": "Civil Engineering",
-      "studyType": "Bachelor's Degree",
+      "area": "Civil Engineering, Environmental Engineering",
+      "studyType": "Bachelor's Degree in Civil Engineering",
       "startDate": "2012-01-31",
       "endDate": "2016-12-31",
       "score": "",
@@ -115,8 +115,8 @@
     },
     {
       "institution": "Centro Federal de Educação Tecnológica de Minas Gerais",
-      "area": "Electromechanical",
-      "studyType": "Technician",
+      "area": "Electromechanical, Programming, Hydraulics",
+      "studyType": "Electromechanical Technician",
       "startDate": "2005-01-31",
       "endDate": "2008-12-31",
       "score": "",
@@ -173,7 +173,7 @@
       "language": "Portuguese (Brazil)"
     },
     {
-      "fluency": "Intermedite",
+      "fluency": "Intermediate",
       "language": "French"
     }
   ],
