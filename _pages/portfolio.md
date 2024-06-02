@@ -1,5 +1,5 @@
 ---
-layout: portfolio
+layout: page
 permalink: /portfolio/
 title: portfolio
 description: Since most of my work is under NDA, I cannot discuss it here. I have translated manuals, financial reports, software and articles.I will list here my subtitlings, my website contributions and newsletters. Notice, however, that many websites for which I have contributed extensively in the past are now offline, like MeioOrc and AnimeHaus.
