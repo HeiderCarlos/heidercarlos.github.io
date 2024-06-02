@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Translator English <-> Portuguese (Brazil) | Tradutor Inglês <-> Português
+subtitle: Translator - English <-> Portuguese (Brazil)
 
 profile:
   align: right
