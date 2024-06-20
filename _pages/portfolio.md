@@ -2,7 +2,7 @@
 layout: page
 permalink: /portfolio/
 title: portfolio
-description: 
+description:
 nav: true
 nav_order: 2
 ---
