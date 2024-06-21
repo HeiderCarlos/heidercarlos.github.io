@@ -10,19 +10,12 @@ nav_order: 2
 Since most of my work is under NDA, I cannot discuss it in detail here. However, you can see the clients I've worked with on my CV and read their feedback on my Proz profile. Below, I’ll list the sites I write for, my newsletters, and the projects I’ve subtitled.
 Using markdown to display tables is easy. Just use the following syntax:
 
-```markdown
-| Left aligned | Center aligned | Right aligned |
-| :----------- | :------------: | ------------: |
-| Left 1       |    center 1    |       right 1 |
-| Left 2       |    center 2    |       right 2 |
-| Left 3       |    center 3    |       right 3 |
-```
 
 That will generate:
 
-| Left aligned | Center aligned | Right aligned |
-| :----------- | :------------: | ------------: |
-| Left 1       |    center 1    |       right 1 |
+| Websites          |                     |                    |
+| :---------------- | :-----------------: | -----------------: |
+| PãoGeekQueijo     |    center 1         |       right 1      |
 | Left 2       |    center 2    |       right 2 |
 | Left 3       |    center 3    |       right 3 |
 
