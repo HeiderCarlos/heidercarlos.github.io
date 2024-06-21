@@ -1,8 +1,13 @@
 ---
-layout: about
-title: about
+layout: cv
 permalink: /
-subtitle: <strong>Translator<br>English <-> Portuguese (Brazil)</strong>
+title: about
+nav: true
+nav_order: 3
+cv_pdf: HEIDER_CV_2024_EN.pdf
+description:
+toc:
+  sidebar: left
 
 profile:
   align: right
@@ -10,8 +15,6 @@ profile:
   image_circular: true # crops the image to make it circular
   more_info:
 
-news: false # includes a list of news items
-selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
