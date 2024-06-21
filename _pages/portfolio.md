@@ -22,7 +22,7 @@ Since most of my work is under NDA, I cannot discuss it in detail here. However,
 <strong><a href='https://megamaratona.substack.com/'>Mega Maratona</a>:</strong> Personal odyssey to beat all SEGA GENESIS games released in the West.
 
 <br><br>
-<h4><strong>Subtitling:</strong><br></h4>
+<h4><strong>Subtitling:</strong></h4><br>
 
-<strong>Freaknik: The Wildest Party Never Told (2024)</a>:</strong> Documentary recounting the rise and fall of a small Atlanta HBCU picnic that exploded into an influential street party and spotlighted ATL as a major cultural stage. Available at Disney+.
+<strong>Freaknik: The Wildest Party Never Told (2024):</strong> Documentary recounting the rise and fall of a small Atlanta HBCU picnic that exploded into an influential street party and spotlighted ATL as a major cultural stage. Available at Disney+.
 </div>
